@@ -7,5 +7,3 @@ def slice_simple():
     print(awe)
     print(eso)
     print(awesome)
-
-slice_simple()
